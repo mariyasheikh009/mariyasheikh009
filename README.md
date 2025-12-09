@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mariya Sheikh</h1>
-<h3 align="center">BCA Student | Aspiring Python Developer | AI & ML Enthusiast</h3>
+<h3 align="center">Tech Student | Aspiring Python Developer | AI & ML Enthusiast</h3>
 
 ---
 
