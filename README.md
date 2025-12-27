@@ -22,7 +22,7 @@
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=django,react,flask" />
+  <img src="https://skillicons.dev/icons?i=react,flask" />
 </p>
 
 ### Database
@@ -32,7 +32,7 @@
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,canva&perline=6" />
 </p>
 
 ---
@@ -67,3 +67,4 @@
 ---
 
 > *"Consistency and discipline are the foundations of long-term success."*
+
