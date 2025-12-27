@@ -32,7 +32,7 @@
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,canva,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,canva" />
 </p>
 
 ---
