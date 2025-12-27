@@ -22,7 +22,7 @@
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flask" />
+  <img src="https://skillicons.dev/icons?i=django,react,flask" />
 </p>
 
 ### Database
@@ -32,7 +32,7 @@
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,canva,jupyter" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 
 ## 📫 Contact & Collaboration
 
-- 🔗 GitHub: https://github.com/mariyasheikh009 
+- 🔗 GitHub: https://github.com/mariyasheikh009  
 - 💬 Open to collaboration on beginner-friendly and learning-based projects  
 
 ---
